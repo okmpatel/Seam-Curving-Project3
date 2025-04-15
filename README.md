@@ -1,2 +1,2 @@
-# -Project-3---Seam-Curving-
+# Project-3 - Seam-Curving
 Algorithms project 3
